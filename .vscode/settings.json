@@ -1,0 +1,5 @@
+{
+    "explorer.compactFolders": false,
+    "editor.rulers": [80,120],
+    "workbench.tree.indent": 32
+}
