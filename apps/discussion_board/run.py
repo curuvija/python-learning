@@ -1,4 +1,6 @@
-from classes import User
+import sys, os
+
+from models.classes import User
 
 def main():
     admin = User('Milos', 'Curuvija', 'curuvija@live.com', 'lozinka1')
